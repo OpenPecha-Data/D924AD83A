@@ -28,77 +28,77 @@ annotations:
     reference: ''
     span:
       start: 3511
-      end: 4891
+      end: 4892
     note_ref: db368b9693894bafb3cf9d578bdcc7d3
   2c405319be674c2889daac5de0573af5:
     imgnum: 946
     reference: ''
     span:
-      start: 4893
-      end: 6344
+      start: 4894
+      end: 6345
     note_ref: db368b9693894bafb3cf9d578bdcc7d3
   4df960882a2d4f0ea8f96a42e043af8d:
     imgnum: 947
     reference: ''
     span:
-      start: 6346
-      end: 7596
+      start: 6347
+      end: 7597
     note_ref: db368b9693894bafb3cf9d578bdcc7d3
   3cffc523945f43bf872857eef032cf9d:
     imgnum: 948
     reference: ''
     span:
-      start: 7598
-      end: 8935
+      start: 7599
+      end: 8936
     note_ref: db368b9693894bafb3cf9d578bdcc7d3
   593a4464e8694ee89c65fb89d7e8440c:
     imgnum: 949
     reference: ''
     span:
-      start: 8937
-      end: 10207
+      start: 8938
+      end: 10208
     note_ref: db368b9693894bafb3cf9d578bdcc7d3
   4d636dda77274a96831e1e382722d2b8:
     imgnum: 950
     reference: ''
     span:
-      start: 10209
-      end: 11538
+      start: 10210
+      end: 11539
     note_ref: 68900c88003147379c01eee0898355f0
   46c401d92432478883b3b7d9e673ee8c:
     imgnum: 951
     reference: ''
     span:
-      start: 11540
-      end: 12876
+      start: 11541
+      end: 12877
     note_ref: 68900c88003147379c01eee0898355f0
   13c741d3e7ef4ea9a14369d3285cfd64:
     imgnum: 952
     reference: ''
     span:
-      start: 12878
-      end: 14303
+      start: 12879
+      end: 14304
     note_ref: 68900c88003147379c01eee0898355f0
   510ddd297e954fbc9e2e91ceacbb9693:
     imgnum: 953
     reference: ''
     span:
-      start: 14305
-      end: 15747
+      start: 14306
+      end: 15748
     note_ref: 68900c88003147379c01eee0898355f0
   db368b9693894bafb3cf9d578bdcc7d3:
     imgnum: 954
     reference: ''
     span:
-      start: 15749
-      end: 17604
+      start: 15750
+      end: 17605
     note_ref: 68900c88003147379c01eee0898355f0
   68900c88003147379c01eee0898355f0:
     imgnum: 955
     reference: ''
     span:
-      start: 17606
-      end: 18627
+      start: 17607
+      end: 18628
 local_ids:
   a9405bd106b449eaa0350ddcb6ed69aa: 200000
   90d851979af24976aadd17ca4eab7d75: 200001
